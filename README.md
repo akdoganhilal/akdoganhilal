@@ -1,5 +1,5 @@
 ### 💫 About Me:
-*Hi! I am Hilal. I am interested in Artificial Intelligence and Software QA Testing. I am continuously improving my knowledge and skills by taking various trainings related to these areas.<br> <br>🌱 Currently Learning: Python, Kaggle<br>*
+*Hi! I am Hilal. I am interested in Artificial Intelligence and Software QA Testing. I am continuously improving my knowledge and skills by taking various trainings related to these areas.<br> <br>🌱 <br>*
 
 ### 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hilakdogan@outlook.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hilalakdogan/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@hilalakdogan) 
